@@ -15,7 +15,7 @@
 | [Amazon Datawarehouse](https://github.com/fajri-yanti/dwh-amazon) |  Python, BigQuery, GCP, dbt | This project focuses on building a scalable data pipeline leveraging the ELT (Extract, Load, Transform) process. Raw e-commerce data is extracted from diverse sources and loaded into a centralized data warehouse. Transformations are then performed within the warehouse using dbt to create clean, structured datasets that enable efficient reporting, analysis, and data-driven decision-making. |
 | [LetterBox Popular Review Review](https://github.com/fajri-yanti/LetterBox-Popular-Review) |  Python, BigQuery |  Scrape popular movie reviews from Letterboxd.com. This script extracts review data including reviewer names, movie titles, ratings, review content, and like counts, then saves them to a CSV file and store to BigQuery.|
 | [Medication Stock Data Pipeline](https://github.com/fajri-yanti/etl-script-stok-obat)| Python, PostgreSQL |Automate medication stock data processing with Python-based ETL (Extract, Transform, Load) script. Efficiently handle Excel data and seamlessly integrate it into a PostgreSQL database for streamlined inventory management.|
-| [Medication Stock Data Pipeline](https://github.com/fajri-yanti/etl-script-stok-obat)| Python, PostgreSQL |Automate medication stock data processing with Python-based ETL (Extract, Transform, Load) script. Efficiently handle Excel data and seamlessly integrate it into a PostgreSQL database for streamlined inventory management.|
+| [Superstore Data Pipeline](https://github.com/fajri-yanti/Superstore-Data-Pipeline)| Python, airflow, MySQL, PostgreSQL |Build data warehouse ELT for using daily transaction data|
 ---
 
 ## 🛠️ SQL
