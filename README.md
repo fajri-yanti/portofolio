@@ -1,25 +1,21 @@
 # Project Portfolio
 
 ## Table of Contents :
-- [Data Engineering](#data-engineering)
-- [Python: Data Analysis and Machine Learning](#python-data-analysis-and-machine-learning)
+- [Data Engineering & Analytics](#data-engineering)
 - [SQL](#sql)
+- [Backend and Quality Assurance]()
 - [Dashboard](#dashboard)
-- [Completed Course and Certification](#completed-course-and-certification)
-
 ---
 
-## 🛠️ Data Engineering
+## 🛠️ Data Engineering & Analytics
 
 | Project Link                                      | Tools                                                      | Description                                                                                                                                                                                                                                                                               |
 |--------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Ecommers Data Pipeline](#) |  Python, GCP (Google Cloud Storage, BigQuery), Spark, Kafka, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processing online payment transaction data. The pipeline integrated batch and streaming processing, transformed raw data using Spark, built a data warehouse applying a fact and dimensional model, provided notifications when fraudulent activity was detected, and created a reporting dashboard with Looker Data Studio. |
-
----
-
-## 🐍 Python: Data Analysis and Machine Learning
-Details coming soon...
-
+| [Ecommers Data Pipeline](https://github.com/fajri-yanti/ETL_e-commers) |  Python, PostgreSQL, Power BI | This project aims to develop a reliable data pipeline utilizing the ETL (Extract, Transform, Load) process to simplify and optimize the preparation of e-commerce data for analysis. The objective is to gather raw data from multiple sources, transform it into a well-organized format, and load it into a data warehouse or analytics platform for easy access to reporting, analysis, and decision-making. |
+| [Amazon Datawarehouse](https://github.com/fajri-yanti/dwh-amazon) |  Python, BigQuery, GCP, dbt | This project focuses on building a scalable data pipeline leveraging the ELT (Extract, Load, Transform) process. Raw e-commerce data is extracted from diverse sources and loaded into a centralized data warehouse. Transformations are then performed within the warehouse using dbt to create clean, structured datasets that enable efficient reporting, analysis, and data-driven decision-making. |
+| [LetterBox Popular Review Review](https://github.com/fajri-yanti/LetterBox-Popular-Review) |  Python, BigQuery |  Scrape popular movie reviews from Letterboxd.com. This script extracts review data including reviewer names, movie titles, ratings, review content, and like counts, then saves them to a CSV file and store to BigQuery.|
+| [Medication Stock Data Pipeline](https://github.com/fajri-yanti/etl-script-stok-obat)| Python, PostgreSQL |Automate medication stock data processing with Python-based ETL (Extract, Transform, Load) script. Efficiently handle Excel data and seamlessly integrate it into a PostgreSQL database for streamlined inventory management.|
+| [Medication Stock Data Pipeline](https://github.com/fajri-yanti/etl-script-stok-obat)| Python, PostgreSQL |Automate medication stock data processing with Python-based ETL (Extract, Transform, Load) script. Efficiently handle Excel data and seamlessly integrate it into a PostgreSQL database for streamlined inventory management.|
 ---
 
 ## 🛠️ SQL
@@ -32,5 +28,3 @@ Details coming soon...
 
 ---
 
-## 📜 Completed Course and Certification
-Details coming soon...
