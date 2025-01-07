@@ -18,13 +18,5 @@
 | [Superstore Data Pipeline](https://github.com/fajri-yanti/Superstore-Data-Pipeline)| Python, airflow, MySQL, PostgreSQL |Build data warehouse ELT for using daily transaction data|
 ---
 
-## 🛠️ SQL
-Details coming soon...
 
----
-
-## 📊 Dashboard
-Details coming soon...
-
----
 
